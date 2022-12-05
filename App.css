@@ -124,6 +124,23 @@ button{
 iframe{ 
   border-radius: 3.5px; 
   margin: 4px;
+} 
+
+.bruh{ 
+  width: 75%; 
+  text-align: center; 
+  position: relative; 
+  display: flex; 
+  padding-right: 100px;
+}  
+
+.bruh1{ 
+  text-align: center; 
+  position: relative; 
+  display: flex; 
+  margin-right: 55px;
 }
+
+
 
 

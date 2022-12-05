@@ -15,9 +15,9 @@ class SearchBar extends React.Component {
     render() { 
         return ( 
             <div> 
-                <form onSubmit={this.handleSubmit}> 
+                <form class="bruh1" onSubmit={this.handleSubmit}> 
                     <div class="bruh">
-                    <div id="input" class="form-outline w-50"> 
+                    <div id="input" class="form-outline w-75"> 
                         <input aria-label="Search" class="form-control" placeholder="Search" type="text" onChange={this.handleChange}></input>
                     </div>  
                     </div>
